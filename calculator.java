@@ -13,5 +13,10 @@ public class calculator
 	{
 	System.out.println("Addition is= "+(number1+number2));
 	}
+	public static void substraction(int number1,int number2)
+	{
+	System.out.println("substraction is= "+(number1-number2));
+	}
+
 
 }
