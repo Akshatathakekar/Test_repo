@@ -17,6 +17,10 @@ public class calculator
 	{
 	System.out.println("substraction is= "+(number1-number2));
 	}
+	public static void multiplication(int number1,int number2)
+	{
+	System.out.println(" multiplication is= "+(number1*number2));
+	}
 
 
 }
